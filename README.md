@@ -64,5 +64,5 @@ python client.py
 
 
 ## 🌟 GitHub Repository
-🔗 **[GitHub Repo Link]([https://github.com/YOUR_USERNAME/Furniture_Arrangement_AI](https://github.com/kowsik72/AI_Furniture_Planner))**
+🔗 **[GitHub Repo Link](https://github.com/YOUR_USERNAME/Furniture_Arrangement_AI](https://github.com/kowsik72/AI_Furniture_Planner)**
 

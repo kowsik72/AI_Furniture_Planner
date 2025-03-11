@@ -52,10 +52,6 @@ python client.py
 
 ---
 
-## 📺 Video Demo
-👉 **[Upload your 2-3 min demo video and add the link here]**
-
----
 
 ## 🤝 Contributors
 - **kowsik** (kowsik72)
